@@ -1,2 +1,3 @@
-# estudio-abogads
-https://github.com/olgalaurabarrientos-ops/lextransito-web https://olgalaurabarrientos-ops.github.io/lextransito-web/
+<link rel="stylesheet" href="css/estilos.css">  <!-- Sin barra / al principio -->
+<img src="imagenes/choque.jpg"> <!-- Apunta directo a tu carpeta del repositorio -->
+
